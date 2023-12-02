@@ -1,4 +1,4 @@
-#Network Scanner
+# Network Scanner
 This Python script utilizes the Scapy library to perform a simple network scan. The scan is designed to discover devices on a given IP range. The script sends ARP (Address Resolution Protocol) requests to the specified IP or IP range and collects the responses to identify the corresponding MAC addresses.
 
 ##Prerequisites
