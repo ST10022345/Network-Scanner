@@ -55,7 +55,7 @@ This script is provided as-is and without any warranty. Use it responsibly and o
 ##Author
 Ethan Robinson
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
